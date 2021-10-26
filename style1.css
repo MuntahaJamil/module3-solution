@@ -1,0 +1,13 @@
+*{
+	box-sizing: border-box;
+}
+.navbar-nav li{
+	border: 1px solid black;
+	width: 100%;
+}
+.navbar{
+	border: 2px solid black;
+}
+.navbar-nav li:hover{
+	color: blue;
+}
